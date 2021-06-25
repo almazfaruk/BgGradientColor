@@ -1,7 +1,7 @@
 # BgGradientColor
 <img src="./1.PNG" width="100" height="100" />
 
-# Step 1
+# How To Use ?
 ```
   # Add div tag to body 
   

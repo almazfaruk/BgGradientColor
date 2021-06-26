@@ -1,5 +1,5 @@
 # BgGradientColor
-<p align="center"><img src="./2.PNG" width="300" height="300" /></p>
+<p align="center"><img src="./2.PNG" width="350" height="350" /></p>
 
 
 # How To Use ?
